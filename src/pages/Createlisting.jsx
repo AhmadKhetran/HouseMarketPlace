@@ -171,7 +171,7 @@ function Createlisting() {
                       <form onSubmit={createListing}>
                         <div>
                           <div className="d-grid gap-2 d-md-block mb-4">
-                            <h2 className="font-bold">SALE/RENT</h2>
+                            <h2 className="font-bold">Sale/Rent</h2>
                             <button
                               className={
                                 !sale
